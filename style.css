@@ -23,6 +23,8 @@ html,body{
     align-items:center ;
     backdrop-filter: blur(9px);
     padding: 50px 80px ;
+    position: fixed;
+    top: 0px;
     
 }
 .nav h2{
